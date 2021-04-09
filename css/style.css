@@ -1,0 +1,37 @@
+body {
+    font: 20px arial, serif;
+}
+
+.navbar {
+    background-color: #566573;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+
+}
+
+.padding{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.cor1 {
+    background-color: #2E86C1;
+}
+
+.cor2 {
+    background-color:#D5D8DC;
+}
+
+.cor3 {
+    background-color: whitesmoke;
+}
+
+.cor4 {
+    background-color: #566573;
+}
